@@ -12,4 +12,4 @@ lscr.io/linuxserver/qbittorrent
 lscr.io/linuxserver/transmission
 portainer/portainer-ce
 apachewebdav/apachewebdav
-developer024/networkdownload
+developer024/networkdownload:dev1
