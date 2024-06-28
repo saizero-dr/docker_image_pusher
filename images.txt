@@ -13,3 +13,4 @@ lscr.io/linuxserver/transmission
 portainer/portainer-ce
 apachewebdav/apachewebdav
 developer024/networkdownload:dev1
+portainer/portainer-ce
