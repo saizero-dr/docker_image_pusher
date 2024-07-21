@@ -15,3 +15,4 @@ apachewebdav/apachewebdav
 developer024/networkdownload:dev1
 portainer/portainer-ce
 postgres:16.3-alpine
+adguard/adguardhome
