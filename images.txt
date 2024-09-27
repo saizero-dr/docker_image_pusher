@@ -18,3 +18,4 @@ postgres:16.3-alpine
 adguard/adguardhome
 xhofe/alist:latest
 whyour/qinglong
+emby/embyserver
